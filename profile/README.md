@@ -13,6 +13,7 @@ Para implementar essa ideia, o aplicativo oferecerá as seguintes funcionalidade
 **1️⃣ Criação e Gerenciamento de Grupos (competições):**
 - Um usuário pode criar um grupo privado.
 - O criador do grupo pode convidar outros usuários para participarem.
+- Os usuários tem uma sequência de dias seguidos, a cada dia que passa o fogo aumenta.
 
 **2️⃣ Compartilhamento no Feed do Grupo:**
 - Momentos de Treino: Os usuários podem compartilhar fotos, vídeos, localização ou textos sobre suas atividades físicas com o grupo.
@@ -25,6 +26,7 @@ Para implementar essa ideia, o aplicativo oferecerá as seguintes funcionalidade
 **4️⃣ Recursos de Bem-Estar:**
 - Lembretes para Hidratação: O aplicativo envia notificações para manter os usuários hidratados durante o dia.
 - Lembretes para refeições: O aplicativo envia notificações para manter os usuários cientes das refeições diárias durante o dia.
+- Dose diária de leitura: O aplicativo fornece uma facilidade na rotina do usuário em relação a leitura.
 
 # 👥 Objetivo e Público-Alvo:
 O objetivo principal é criar uma ferramenta que incentive a adoção e manutenção de hábitos saudáveis. O aplicativo atende tanto iniciantes em sua jornada fitness quanto pessoas que já treinam há algum tempo e procuram uma nova maneira de se manterem motivadas e conectadas com pessoas de interesses similares. Acreditamos que o aspecto social e o apoio do grupo são diferenciais essenciais para o sucesso individual na busca por uma vida mais saudável.
