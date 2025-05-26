@@ -1,4 +1,4 @@
-# ImpetusApplication
+# Impetus
 Aplicativo de Apoio a Atividades Físicas e Saúde Mental
 
 # 🎯 Conceito Central:
