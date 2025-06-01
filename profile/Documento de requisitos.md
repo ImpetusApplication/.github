@@ -116,7 +116,7 @@ O aplicativo será uma plataforma móvel, com back-end e front-end integrados, f
 ## 4. Modelos e Diagramas  
 
 - [Diagrama de Casos de Uso e Diagrama de classes para modelagem de dados](https://www.canva.com/design/DAGnQzlDgCQ/2OQ3NgsN1MA9wy3Vq5TteA/view?utm_content=DAGnQzlDgCQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4859d73653#3)  
-- [Protótipos de telas](https://www.figma.com/proto/qPLWnMVyUlS4DlqEVupjgn/IMPECTUS?node-id=36-3&t=cypSRQvQKIBYUWyA-0&scaling=scale-down&content-scaling=fixed&page-id=36%3A2&starting-point-node-id=36%3A3&show-proto-sidebar=1) (Login, Cadastro, Feed, Perfil, Planejador de Refeições, Organizador de Treinos)  
+- [Protótipos de telas](https://www.figma.com/proto/qPLWnMVyUlS4DlqEVupjgn/IMPECTUS?node-id=36-3&t=cypSRQvQKIBYUWyA-0&scaling=scale-down&content-scaling=fixed&page-id=36%3A2&starting-point-node-id=36%3A3&show-proto-sidebar=1) (Login, Cadastro, Feed)  
 
 ---
 
