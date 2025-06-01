@@ -1,4 +1,4 @@
-# Impetus
+# Documento de Visão - Impetus
 Aplicativo de Apoio a Atividades Físicas e Saúde Mental
 
 # 🎯 Conceito Central:
