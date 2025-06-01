@@ -3,10 +3,10 @@
 ## 1. Introdução
 
 ### 1.1 Objetivo  
-Este documento tem como objetivo definir os requisitos funcionais e não funcionais para o desenvolvimento do Aplicativo de Apoio a Atividades Físicas e Saúde Mental, uma rede social privada para grupos focados em vida fitness, saúde e bem-estar, promovendo apoio mútuo, compartilhamento e motivação.
+Este documento tem como objetivo definir os requisitos funcionais e não funcionais para o desenvolvimento do Aplicativo de Apoio a Atividades Físicas e Saúde Mental, uma rede social privada para grupos focados em vida fitness, saúde e bem-estar, promovendo apoio mútuo, compartilhamento e motivação. Também é focado em facilitar o dia-a-dia do usuário idealizando hábitos saudáveis para promover uma vida mais confortável e saudável.  
 
 ### 1.2 Escopo  
-O aplicativo permitirá a criação e gestão de grupos privados (competições), compartilhamento de treinos e refeições no feed do grupo, acompanhamento pessoal com planejador de refeições e treinos, além de lembretes de hidratação e alimentação. Será uma ferramenta para usuários iniciantes e experientes, incluindo profissionais da saúde.
+O aplicativo permitirá a criação e gestão de grupos privados (competições), compartilhamento de treinos e refeições no feed do grupo, acompanhamento pessoal com planejador de refeições e treinos, organizador de leituras, além de lembretes de hidratação e alimentação. Será uma ferramenta para usuários iniciantes e experientes, incluindo profissionais da saúde.
 
 Fora do escopo neste momento: funcionalidades relacionadas a gestão financeira e leitura, que podem ser implementadas em versões futuras.
 
@@ -14,10 +14,10 @@ Fora do escopo neste momento: funcionalidades relacionadas a gestão financeira 
 - **Grupo / Competição**: Espaço privado criado por usuário para interação entre membros.  
 - **Feed do Grupo**: Área para compartilhar posts de treino e alimentação.  
 - **Planejador de Refeições**: Ferramenta para organização individual de refeições diárias.  
-- **Organizador de Treinos**: Ferramenta privada para criação e gerenciamento de treinos pessoais.  
+- **Organizador de Treinos**: Ferramenta privada para criação e gerenciamento de treinos pessoais.
+- **Organizador de Leitura**: Ferramenta privada para gerenciamento de leituras pessoais. 
 
 ### 1.4 Referências  
-- Documentação Notion com backlog e sprints: [Link do Notion]  
 - Diretrizes de acessibilidade móvel  
 - Padrões de notificações push em sistemas móveis  
 
@@ -29,7 +29,7 @@ O documento está organizado em seções que abordam a descrição geral do sist
 ## 2. Descrição Geral
 
 ### 2.1 Perspectiva do Produto  
-O aplicativo será uma plataforma móvel, com back-end e front-end integrados, funcionando como uma rede social privada focada em grupos de saúde e fitness.
+O aplicativo será uma plataforma móvel, com back-end e front-end integrados, funcionando como uma rede social privada focada em grupos de saúde e fitness, mas também funcionando com ferramentas privadas com foco em promover os hábitos saudáveis menos abordados por outros aplicativos, por exemplo: leitura e tempo de descanso.
 
 ### 2.2 Funções do Produto  
 - Criação e gerenciamento de grupos privados (competições).  
@@ -39,7 +39,7 @@ O aplicativo será uma plataforma móvel, com back-end e front-end integrados, f
 - Cadastro e gerenciamento de perfil de usuário.  
 
 ### 2.3 Usuários e Características  
-- Usuários comuns: interessados em saúde, fitness e bem-estar, iniciantes ou avançados.  
+- Usuários comuns: interessados em saúde, fitness e bem-estar, iniciantes ou avançados, interessados em hábitos saudáveis que buscam conforto e facilidade na rotina.  
 - Profissionais da saúde: podem criar grupos para seus pacientes/clientes.  
 - Desenvolvedores e administradores: manter e atualizar o sistema.  
 
@@ -115,9 +115,8 @@ O aplicativo será uma plataforma móvel, com back-end e front-end integrados, f
 
 ## 4. Modelos e Diagramas  
 
-- Diagrama de Casos de Uso (em anexo ou link para PlantUML/draw.io)  
-- Diagramas de classes para modelagem de dados (a ser desenvolvido na Sprint 2)  
-- Protótipos de telas (Login, Cadastro, Feed, Perfil, Planejador de Refeições, Organizador de Treinos)  
+- [Diagrama de Casos de Uso e Diagrama de classes para modelagem de dados](https://www.canva.com/design/DAGnQzlDgCQ/2OQ3NgsN1MA9wy3Vq5TteA/view?utm_content=DAGnQzlDgCQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4859d73653#3)  
+- [Protótipos de telas](https://www.figma.com/proto/qPLWnMVyUlS4DlqEVupjgn/IMPECTUS?node-id=36-3&t=cypSRQvQKIBYUWyA-0&scaling=scale-down&content-scaling=fixed&page-id=36%3A2&starting-point-node-id=36%3A3&show-proto-sidebar=1) (Login, Cadastro, Feed, Perfil, Planejador de Refeições, Organizador de Treinos)  
 
 ---
 
@@ -134,6 +133,15 @@ O aplicativo será uma plataforma móvel, com back-end e front-end integrados, f
 
 ## 6. Apêndices  
 
-- Backlog detalhado com histórias de usuário (fornecido via Notion).  
-- Link para repositório Git do projeto.  
-- Documentos de visão e planejamento das sprints.  
+- Backlog inicial com histórias de usuário:
+1. Como usuário, quero cadastrar meu perfil, entrar no meu perfil e sair do meu perfil para criar o meu acesso ao aplicativo.
+2. Como usuário, quero cadastrar meus treinos, sessão por sessão, para poder utilizar durante as competições.
+3. Como usuário, quero cadastrar minha rotina alimentar, com horários, descrição e lembretes para não deixar de realizar a minha refeição.
+4. Como usuário, quero criar competições e convidar outros usuários para participar destas competições para gerar um ranking com a data determinada por mim.
+5. Como usuário, quero adicionar fotos na competição com os meus treinos já criados marcando a conclusão do treino para comprovar minha participação diária.
+6. Como usuário, quero adicionar fotos das minhas refeições com seus respectivos horários e descrições para comprovar que estou realizando tudo que foi proposto na minha rotina alimentar.
+7. Como usuário, quero que o aplicativo bombardeie notificações ao longo do dia com lembretes de beber água para me manter hidratado durante o dia.
+8. Como usuário, quero cadastrar avaliações físicas e métricas para poder comparar com o meu futuro progresso.
+9. Como usuário, quero navegar entre competições para poder visualizar como está indo cada competição que estou participando.
+10. Como desenvolvedor, quero que o aplicativo seja responsivo e acessível para todas as pessoas conseguir utilizar em qualquer celular.  
+- Documentos de visão e planejamento das sprints estão nessa organization, no README.md e em projects, sprint's, respectivamente.  
