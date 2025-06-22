@@ -29,7 +29,7 @@ Para implementar essa ideia, o aplicativo oferecerá as seguintes funcionalidade
 # 👥 Objetivo e Público-Alvo:
 O objetivo principal é criar uma ferramenta que incentive a adoção e manutenção de hábitos saudáveis. O aplicativo atende tanto iniciantes em sua jornada fitness quanto pessoas que já treinam há algum tempo e procuram uma nova maneira de se manterem motivadas e conectadas com pessoas de interesses similares. Acreditamos que o aspecto social e o apoio do grupo são diferenciais essenciais para o sucesso individual na busca por uma vida mais saudável.
 
-#Anexos:
+# Anexos:
 - [Diagrama de Casos de Uso e Diagrama de classes para modelagem de dados](https://www.canva.com/design/DAGnQzlDgCQ/2OQ3NgsN1MA9wy3Vq5TteA/view?utm_content=DAGnQzlDgCQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4859d73653#3)  
 - [Protótipos de telas](https://www.figma.com/proto/qPLWnMVyUlS4DlqEVupjgn/IMPECTUS?node-id=36-3&t=cypSRQvQKIBYUWyA-0&scaling=scale-down&content-scaling=fixed&page-id=36%3A2&starting-point-node-id=36%3A3&show-proto-sidebar=1) (Login, Cadastro, Feed)
 - [Manual do Usuário - Impetus](https://drive.google.com/file/d/167hfQAAKIkgHlhHNZTyHXWtn9vtS1b8p/view?usp=sharing)
