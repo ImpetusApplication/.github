@@ -33,3 +33,8 @@ O objetivo principal é criar uma ferramenta que incentive a adoção e manuten�
 - [Diagrama de Casos de Uso e Diagrama de classes para modelagem de dados](https://www.canva.com/design/DAGnQzlDgCQ/2OQ3NgsN1MA9wy3Vq5TteA/view?utm_content=DAGnQzlDgCQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4859d73653#3)  
 - [Protótipos de telas](https://www.figma.com/proto/qPLWnMVyUlS4DlqEVupjgn/IMPECTUS?node-id=36-3&t=cypSRQvQKIBYUWyA-0&scaling=scale-down&content-scaling=fixed&page-id=36%3A2&starting-point-node-id=36%3A3&show-proto-sidebar=1) (Login, Cadastro, Feed)
 - [Manual do Usuário - Impetus](https://drive.google.com/file/d/167hfQAAKIkgHlhHNZTyHXWtn9vtS1b8p/view?usp=sharing)
+- [Documentação Daily 12/05](https://drive.google.com/file/d/1_DEi9HKeKJGypZtnhFSgN0qoUdfdSNIG/view?usp=sharing)
+- [Documentação Daily 19/05](https://drive.google.com/file/d/1h59AVQpDHWuqyeiOHJSiyFYQZbiXRh7C/view?usp=sharing)
+- [Documentação Daily 02/06](https://drive.google.com/file/d/1HKtwaiHLbc51_mA16cHPGd0MRwbKTMmV/view?usp=sharing)
+- [Documentação Daily 14/06](https://drive.google.com/file/d/14vJp1H4WikjA2tMA2_xSeOcLhTyozcZh/view?usp=sharing)
+  
