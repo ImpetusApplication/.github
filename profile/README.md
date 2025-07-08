@@ -30,3 +30,8 @@ Para implementar essa ideia, o aplicativo oferecerá as seguintes funcionalidade
 
 # 👥 Objetivo e Público-Alvo:
 O objetivo principal é criar uma ferramenta que incentive a adoção e manutenção de hábitos saudáveis. O aplicativo atende tanto iniciantes em sua jornada fitness quanto pessoas que já treinam há algum tempo e procuram uma nova maneira de se manterem motivadas e conectadas com pessoas de interesses similares. Acreditamos que o aspecto social e o apoio do grupo são diferenciais essenciais para o sucesso individual na busca por uma vida mais saudável.
+
+# 👥 Equipe:
+Product Owner: João Guilherme;
+Scrum Master: Rafael Alexander;
+DEV Team: Igor Dias, João Augusto, Erica Kathlen, João Marcelo, Marcos Terceiro e Marlos Emanuel. 
